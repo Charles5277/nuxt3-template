@@ -1,0 +1,12 @@
+{
+  "cSpell.words": [
+    "camelcase",
+    "esbenp",
+    "heroicons",
+    "nuxt",
+    "nuxtjs",
+    "Parens"
+  ],
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange"
+}
