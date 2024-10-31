@@ -1,39 +1,50 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 模板
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Package List
 
-## Setup
+- Nuxt 3
+- Nuxt UI 2
+- Vue 3.5
+- Vue Router 4
+- Nuxt Color Mode 3
+- Nuxt ESLint 0.6
+- ESLint 9
+- Prettier 3
+- Sass 1
+- TypeScript 5
 
-Make sure to install the dependencies:
+## 設置
+
+確保安裝依賴項：
 
 ```bash
 # pnpm
 pnpm install
 ```
 
-## Development Server
+## 開發服務器
 
-Start the development server on `http://localhost:3000`:
+在 `http://localhost:3000` 上啟動開發服務器：
 
 ```bash
 # pnpm
 pnpm run dev
 ```
 
-## Production
+## 生產環境
 
-Build the application for production:
+為生產環境構建應用程序：
 
 ```bash
 # pnpm
 pnpm run build
 ```
 
-Locally preview production build:
+本地預覽生產構建：
 
 ```bash
 # pnpm
 pnpm run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+查看[部署文檔](https://nuxt.com/docs/getting-started/deployment)以獲取更多信息。
